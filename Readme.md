@@ -1,4 +1,4 @@
-##Ariston Remotethermo Client
+# Ariston Remotethermo Client
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
