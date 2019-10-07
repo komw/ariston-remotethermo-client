@@ -46,7 +46,7 @@ $ npm install ariston-remotethermo-client
     * get gas usage
     * many others params
 
-##Usage configuration
+## Usage configuration
 You need to specify a:
 * LOGIN
 * PASSWORD
@@ -56,7 +56,7 @@ also you need to specify a HEATER_ID which you can easily find after login into 
 HEATER_ID you can find as a part of URL after login:
 `https://www.ariston-net.remotethermo.com/PlantDashboard/Index/HEATER_ID`
 
-##Usage Example:
+## Usage Example:
 ```js
 const AristonApi = require("ariston-remotethermo-client");
 const ariston = new AristonApi("LOGIN", "PASSWORD", "HEATER_ID");
