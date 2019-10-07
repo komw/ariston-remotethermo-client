@@ -4,8 +4,6 @@
   "description": "Package provides a library to connect to Ariston Net",
   "main": "main.js",
   "dependencies": {
-    "mqtt": "^3.0.0",
-    "node-storage": "0.0.9",
     "request": "^2.88.0",
     "requestretry": "^4.0.0",
     "winston": "^3.2.1"
