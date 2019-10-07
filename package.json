@@ -1,0 +1,24 @@
+{
+  "name": "ariston-remotethermo-client",
+  "version": "0.0.1",
+  "description": "Package provides a library to connect to Ariston Net",
+  "main": "main.js",
+  "dependencies": {
+    "mqtt": "^3.0.0",
+    "node-storage": "0.0.9",
+    "request": "^2.88.0",
+    "requestretry": "^4.0.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "author": "Szymon Gładysz <komw@sgladysz.com>",
+  "repository": "komw/ariston-remotethermo-client",
+  "keywords": [
+    "Ariston",
+    "Genus",
+    "heaters",
+    "boilers",
+    "Api"
+  ],
+  "license": "MIT"
+}
