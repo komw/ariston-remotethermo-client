@@ -1,6 +1,6 @@
 {
   "name": "ariston-remotethermo-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Package provides a library to connect to Ariston Net",
   "main": "main.js",
   "dependencies": {
