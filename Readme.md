@@ -75,4 +75,7 @@ I reserve the right to change this policy at any given time.
   [MIT](LICENSE)
 
 
-[npm-url]: https://npmjs.org/package/express
+[npm-url]: https://npmjs.org/package/ariston-remotethermo-client
+[npm-image]: https://img.shields.io/npm/v/ariston-remotethermo-client.svg
+[downloads-image]: https://img.shields.io/npm/dm/ariston-remotethermo-client.svg
+[downloads-url]: https://npmjs.org/package/ariston-remotethermo-client
